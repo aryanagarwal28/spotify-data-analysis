@@ -21,7 +21,6 @@ Through the Spotify Data Analysis Project I not sharpened my skills but also gai
 
 <p>Feel free to reach out for any questions or suggestions about this project. I'm open to discussions and eager to assist.
  <a href="https://www.linkedin.com/in/mariya-jos/">
-  <img src=" Linkedln | Mariya Joseph" alt=""> Linkedln | Mariya Joseph</a><br>
   
   Don't forget to follow and star ⭐ the repository if you find it valuable.</p>
 
