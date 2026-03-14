@@ -1,13 +1,4 @@
-<h1>Spotify Data Analysis Python Project🎼🎧</h1>
-<h1>Contents📖</h1>
-<ul>
-  <li><a href="#introduction">Introduction</a></li>
-  <li><a href="#importrequiredlibraries">Import Required Libraries</a></li>
-  <li><a href="#exploringthedataset">Exploring the Dataset</a></li>
-  <li><a href="#identifyingnullvaluesinthedataset">Identifying Null Values in the Dataset</a></li>
-  <li><a href="#datasetoverviewrowscolumnsdatatypesandmemoryusage">Dataset Overview: Rows, Columns, Data Types, and Memory Usage</a></li>
-  <li><a href="#extractinginsightsfromthedatasetthroughanalysis">Extracting Insights from the Dataset through Analysis📊</a></li>
-</ul>
+
 
 <h1><a name="introduction">Introduction</a></h1>
 <p>The Spotify Data Analysis Project: In todays changing world data analysis has become crucial in fields such, as business, research and meteorology. This project showcases the role that data plays in making decisions advancing research initiatives and even predicting weather patterns.
